@@ -82,6 +82,6 @@ Number of usable hosts = (2^(32 - subnet_bits)) - 2
 ---
 
 ## 🔗 References
-- TryHackMe – Subnetting Room: https://tryhackme.com/room/subnetting  
+- TryHackMe – Subnetting
 - Cisco Subnetting Guide  
 - YouTube: NetworkChuck, Jeremy’s IT Lab  
